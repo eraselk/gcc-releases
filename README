@@ -1,0 +1,9 @@
+# Features
+```
+  ==> GCC-GCCVERSION
+  ==> Binutils-BINUTILSVERSION
+  ==> Target: 'aarch64-linux-gnu'
+  ==> Stripped binaries
+  ==> Compiled with LTO + PGO
+  ==> Compressed tar archive with zstd v1.5.6
+```
